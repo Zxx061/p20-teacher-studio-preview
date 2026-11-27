@@ -1,4 +1,4 @@
-import{y as h,f as u,z as x}from"./index-CAMsU9Sa.js";function l(i){return String(i??"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}function v(i,s,a="",n=!1){const t=n?"size: A4 landscape; margin: 0;":"size: A4 portrait; margin: 0;";return`<!DOCTYPE html>
+import{y as h,f as u,z as x}from"./index-B5HC9y1A.js";function l(i){return String(i??"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}function v(i,s,a="",n=!1){const t=n?"size: A4 landscape; margin: 0;":"size: A4 portrait; margin: 0;";return`<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8" />
